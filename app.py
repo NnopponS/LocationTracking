@@ -15,8 +15,6 @@ from linebot import (
     LineBotApi, WebhookHandler
 )
 
-pip install -r requirements.txt
-
 app = Flask(__name__)
 
 lineaccesstoken = 'wURgYoRm106mqoM+ogvvMtregTzUL+JqoYcOIXv5OcUq51XMQXhhNmUj7lVBpTg7MrdZRpGp9JtYnTp/K3V0De0Edx5TteAcAILu95tErX4vUDEmmmdSQlWGC0JP4iv4cD74Np+5Ejj1i88gDbbogwdB04t89/1O/w1cDnyilFU='
